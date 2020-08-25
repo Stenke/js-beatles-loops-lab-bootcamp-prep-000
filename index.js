@@ -9,5 +9,5 @@ function theBeatlesPlay(arrayMusician, arrayInstrument) {
 }
 function johnLennonFacts(facts) {
   const facts = [];
-  while ()
+  while (i )
 }
